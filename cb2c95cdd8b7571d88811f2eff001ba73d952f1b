@@ -18,6 +18,6 @@
   "schema_version": 1,
   "change_id": "I1c4a3ce12a24613b546ae6ae7eb160649140c60a",
   "workbench_started": true,
-  "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgfWm38Rk7EcoL+iGRGqkn0jUWIU\nyteqBKzRXTpywtK3sAAAAQY29kZXRyaWFsLXJldmlldwAAAAAAAAAGc2hhNTEyAAAAUwAA\nAAtzc2gtZWQyNTUxOQAAAEDvPpW3lBzbojO8HeSkxGxcHd8BLrHZ0CEMAMerld0Qhxh6t9\nib6Xvrj/qobzb3ecZ3w+n0bE7gw6itfbXZsdYD\n-----END SSH SIGNATURE-----\n",
-  "key_fingerprint": "SHA256:pp+sCLlPp5kKZujXzAyAMqrLyiG00tCjMzkCUeegnCs"
+  "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg1vP5c3GRI2qUQ6DaDMHwhnmE8N\nYVtI2mV7aZH23dYx0AAAAQY29kZXRyaWFsLXJldmlldwAAAAAAAAAGc2hhNTEyAAAAUwAA\nAAtzc2gtZWQyNTUxOQAAAED5y+dZVTOW+YSxe7dlZ1DLyv0z8uPyRriUEMj25eHiz8V+wW\ngM6apcVoqTCGmv5cKpnUX8VqHWjQMAsmjxQUIP\n-----END SSH SIGNATURE-----\n",
+  "key_fingerprint": "SHA256:RjA+GLtZpBT14VpOyFVDzpOw6tkuNYp4m859HWp6V8g"
 }
